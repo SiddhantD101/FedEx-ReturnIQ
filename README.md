@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/fedex_logo.png" alt="FedEx Logo" width="280"/>
+  <img src="images/logo.svg" alt="FedEx Logo" width="280"/>
 </p>
 
 <h1 align="center">🚀 FedEx Smart Returns Intelligence (ReturnIQ)</h1>

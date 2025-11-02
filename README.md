@@ -1,3 +1,46 @@
+
+<p align="center">
+  <img src="images/fedex_logo.png" alt="FedEx Logo" width="280"/>
+</p>
+
+<h1 align="center">🚀 FedEx Smart Returns Intelligence (ReturnIQ)</h1>
+
+<h3 align="center">
+💡 Predictive International Return Decision Engine | Built for FedEx DataWorks Hackathon
+</h3>
+
+---
+
+## 🧠 Overview
+
+**ReturnIQ** is a predictive analytics prototype designed to help FedEx and merchants make **intelligent international return decisions**.  
+It evaluates **profitability**, **risk**, and **environmental impact** to recommend:
+
+- ✅ **Accept Return**
+- 💸 **Refund Without Return**
+- ❌ **Reject Return**
+
+This system combines **FedEx logistics data**, **risk modeling**, and **machine learning** to optimize global returns — reducing cost and CO₂ emissions.
+
+---
+
+## 💡 Problem Statement
+
+Cross-border returns are **expensive and unsustainable**:
+- Return shipping often **costs more** than the product itself.  
+- Many items have **negative resale value** after international transit.  
+- No tool currently helps merchants or FedEx **decide when to accept or deny returns**.
+
+🧩 **ReturnIQ** solves this using **data-driven intelligence** — a simulation-trained model that predicts whether returning a product is economically and environmentally justified.
+
+---
+
+## 🧩 System Architecture
+
+<p align="center">
+  <img src="ima
+
+
 # 🚀 FedEx Smart Returns Intelligence (ReturnIQ)
 
 An AI-powered **decision intelligence engine** that helps FedEx and merchants **predict the profitability and sustainability of international product returns** — optimizing logistics costs and reducing environmental impact.

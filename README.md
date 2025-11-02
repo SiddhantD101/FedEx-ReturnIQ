@@ -35,11 +35,6 @@ Cross-border returns are **expensive and unsustainable**:
 
 ---
 
-## 🧩 System Architecture
-
-<p align="center">
-  <img src="ima
-
 
 # 🚀 FedEx Smart Returns Intelligence (ReturnIQ)
 

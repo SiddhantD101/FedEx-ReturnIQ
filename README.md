@@ -88,17 +88,3 @@ The model estimates shipping cost, customs tariffs, CO₂ emissions, and resale 
 
 ---
 
-## 🧩 System Architecture
-Fedex/
-├── app.py # Streamlit front-end
-├── requirements.txt
-│
-├── data/
-│ ├── fedex_rates.csv
-│ ├── returniq_dataset_10000.csv
-│
-├── models/
-│ └── returniq_model.pkl
-│
-└── scripts/
-└── build_dataset_and_model.py # Simulates data + trains model

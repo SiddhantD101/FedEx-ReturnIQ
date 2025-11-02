@@ -1,0 +1,18 @@
+# Core data science stack
+pandas
+numpy
+scikit-learn
+joblib
+
+# Visualization & dashboard
+streamlit
+plotly
+folium
+streamlit-folium
+
+# Optional utilities
+requests
+geopy
+
+# For reproducibility and better performance
+tqdm
